@@ -46,7 +46,7 @@ public class PersonList {
 		 
 	 }
 	 
-	 public void streamPOutpus() {
+	 public void streamPOutput() {
 		 
 		 personList.stream().forEach( Person -> System.out.println(Person));
 		 
