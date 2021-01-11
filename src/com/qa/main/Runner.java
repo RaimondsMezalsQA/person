@@ -43,6 +43,7 @@ Person person4 = new Person();
 		listP.getList();
 		listP.searchByName("Leo");
 		
+		listP.streamPOutpus();
 		
 	}
 }

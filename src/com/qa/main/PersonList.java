@@ -44,6 +44,11 @@ public class PersonList {
 			 
 		 }
 		 
+	 }
+	 
+	 public void streamPOutpus() {
+		 
+		 personList.stream().forEach( Person -> System.out.println(Person));
 		 
 	 }
 	
